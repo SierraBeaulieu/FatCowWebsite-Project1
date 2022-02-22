@@ -297,5 +297,69 @@ textarea {
 }
 .fat-cow-header{
   background-color: #E0630C;
+  font-size: 22px;
   padding: 22px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.extras{
+  display: flex;
+  flex-direction:row-reverse;
+justify-content:flex-end;
+}
+
+.about{
+  color:#fff;
+  font-size: 22px;
+  display: flex;
+}
+
+.menu-button{
+  color:#fff;
+  display: flex;
+}
+
+.reviews{
+  color:#fff;
+  display: flex;
+ 
+}
+
+.all-links{
+  display: flex;
+  flex-direction: row;
+}
+.menu-list{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-direction: row; 
+  align-content: space-between;
+}
+
+.burger{
+  display: flex;
+  justify-content: center;
+}
+
+.salad{
+  display: flex;
+  justify-content: center;
+}
+
+.desserts{
+  display: flex;
+  justify-content: center;
+}
+
+.extras{
+  display: flex;
+  justify-content: center;
+}
+
+.menu-title{
+  color: #fff;
+  font-size: 30px;
+  justify-content: center;
 }
