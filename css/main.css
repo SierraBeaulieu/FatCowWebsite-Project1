@@ -265,12 +265,37 @@ textarea {
   background-color: #000;
 }
 .fat-cow-header{
-  color: coral;
+  color: white;
 }
 
 .menu-list{
   color: aliceblue;
 }
+.review-page{
+  background-color: #E0630C;
+}
+.written-reviews{
+  color: white;
+}
+
+.stars{
+  color: white;
+}
+
 .all-links{
-  color: lightsalmon;
+  background-color: #E0630C;
+  padding: 22px;
+}
+
+.all-links{
+  justify-content: flex-end;
+
+}
+
+.reviews{
+  justify-content: flex-end;
+}
+.fat-cow-header{
+  background-color: #E0630C;
+  padding: 22px;
 }
