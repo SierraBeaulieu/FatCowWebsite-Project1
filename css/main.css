@@ -325,6 +325,9 @@ justify-content:flex-end;
 }
 
 .all-links{
+  padding: 35px;
+  justify-content: space-around;
+  font-size: 35px;
   display: flex;
   flex-direction: row;
 }
@@ -370,7 +373,6 @@ justify-content:flex-end;
 }
 
 
-  background-color: #000;
 }
 .footer{
   color: white;
@@ -401,5 +403,16 @@ justify-content:flex-end;
   width: 100%;
   height: auto;
   max-width: 50%;
+}
 
+.all-links2{
+  padding: 35px;
+  justify-content: flex-end;
+  font-size: 35px;
+  display: block;
+  align-items: center;
+  flex-direction: row;
+}
+.review-page{
+  background-color: #000;
 }
