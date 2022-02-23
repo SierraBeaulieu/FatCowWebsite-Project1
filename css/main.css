@@ -361,3 +361,45 @@ justify-content:flex-end;
   font-size: 30px;
   justify-content: center;
 }
+
+.burger{
+  padding: 22px;
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+}
+
+
+  background-color: #000;
+}
+.footer{
+  color: white;
+}
+
+.salad-jpg{
+  padding: 22px;
+    width: 100%;
+    height: auto;
+    max-width: 50%;
+}
+
+.burger-jpg{
+  padding: 22px;
+  width: 100%;
+  height: auto;
+  max-width: 50%;
+}
+
+.fries-jpg{
+  padding: 22px;
+  width: 100%;
+  height: auto;
+  max-width: 50%;
+}
+.milkshake-jpg{
+  padding: 22px;
+  width: 100%;
+  height: auto;
+  max-width: 50%;
+
+}
