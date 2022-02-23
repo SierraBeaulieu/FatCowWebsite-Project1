@@ -511,6 +511,21 @@ color: white;
   margin-bottom: auto;
 }
 
-#direction{
-color: white;
+
+.menu-title{
+  color: white;
+  font-size: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.direction{
+  color: white;
+  font-size: 20px;
+}
+
+.number{
+  color: white;
+  font-size: 20px;
 }
